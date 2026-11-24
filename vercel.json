@@ -1,0 +1,10 @@
+
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/api",
+      "destination": "https://script.google.com/macros/s/AKfycbxzRHD9NoKTxThgYQqsb8gLLzzC1PMVnPfztOrTDcSb5daCkA60Huc9jXu0ZIjai5doxA/exec"
+    }
+  ]
+}
